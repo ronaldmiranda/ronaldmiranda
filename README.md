@@ -1,7 +1,8 @@
 ## i'm Ronald Carvalho👋
 
 
-- 🔭 Currently working at **Stone Payments** as a **Site Reliability Engineer**
+- 🔭 Currently working at **Liferay Cloud** as a **DevOps Engineer**
+-    Lastly working at **Stone Payments** as a **Site Reliability Engineer**
 - 🌱 I’m currently learning Go to develop some cool toolkits for DevOps Workflows
 - 👯 I’m looking to collaborate on the comunnity sharing knowledge, talking about devops
 - 💬 Ask me about **Kubernetes, CI/CD,  Jenkins, Ansible, Terraform, Docker, Networking security, Distribuhited Systems, Service Mesh with ISTIO**
