@@ -1,5 +1,7 @@
 ## i'm Ronald Carvalho👋
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ronaldmiranda)](https://github.com/msfidelis)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rmirandaa/)](https://www.linkedin.com/in/msfidelis/)
 
 - 🔭 Currently working at **Liferay Cloud** as a **DevOps Engineer**
 -    Lastly working at **Stone Payments** as a **Site Reliability Engineer**
